@@ -1,0 +1,15 @@
+{Advanced Jello} {3 0 0 0 0 0} 3 9
+{Strawberry Jello} {5 5 0 0 0 0} 5 10
+{Curried chickpeas with spinach} {0 0 7 0 5 3} 2 4
+{Chicken Tacos} {6 3 8 0 5 5} 2 7
+{Bowtie Pasta and Broccoli} {0 0 4 0 3 0} 2 3
+{Pizza} {0 0 0 0 5 0} 7 8
+{Lemon Chicken} {7 7 7 6 2 0} 7 6
+{Pesto Chicken and Vegetables} {6 4 7 0 5 5} 6 8
+{Clam Chowder} {5 0 9 0 5 0} 6 7
+{Sheet Pan Kielbasa Potatoes and Green Beans} {0 2 8 5 5 0} 5 6
+{Chinese noodle soup} {5 7 0 4 2 0} 3 8
+{Orange Chicken} {4 5 3 0 5 3} 5 9
+{Chicken noodle soup} {4 3 3 0 5 0} 4 9
+{Kung Pao Chicken} {2 7 5 0 5 3} 6 6
+{Salisbury Steak} {8 0 0 5 5 0} 9 4

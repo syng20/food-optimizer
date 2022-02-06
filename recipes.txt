@@ -1,0 +1,18 @@
+{Jello} 2 2 {"jello powder"} {1 cup} {4 0 0 0 0 0}
+{Advanced Jello} 4 4 {"jello powder" "sus stew"} {1 cup 1} {4 0 0 0 0 4}
+{Super Advanced Jello} 6 4 {"jello powder" "sus stew" bruhmoment} {1 cup 1 6 yeets} {4 0 0 9 0 4}
+{Curried chickpeas with spinach} 6 25 {"olive oil" onion garlic ginger "curry powder" spinach "tomato sauce" chickpeas}{1 tablespoon 0.5 head 1 clove 0.5 inch 0.75 tablespoon 4 ounces 0.5 can 1 can} {0 0 1 0 4 1}
+{Chicken Tacos} 5 10 {tortillas chicken onion "bell pepper" tomato cilantro "sour cream"} {8 1 pound 1 1 1 0.75 bunch 5 tablespoon} {1 1 3 0 1 1}
+{Strawberry Jello} 3 270 {strawberries sugar gelatin} {2 pound 8 tablespoon 4 ounce} {4 2 0 0 0 0}
+{Bowtie Pasta and Broccoli} 5 15 {pasta broccoli butter cheese salt pepper chili} {2 ounce 0.17 pound 0.5 tablespoon 0.5 tablespoon 1 teaspoon 1 teaspoon 1 teaspoon} {0 0 2 0 3 0} 
+{Pizza} 4 30 {"refrigerated pizza dough" "olive oil" cheese water "tomato sauce"} {1 tube 2 tablespoon 2 cup 2 tablespoon 0.25 cup} {0 0 0 0 4 0}
+{Lemon Chicken} 5 30 {"chicken breast" "olive oil" salt "black pepper" "lemon zest" "lemon juice" "brown sugar"} {4 0.25 cup 2 teaspoon 0.5 teaspoon 1 tablespoon 2 tablespoon 1 tablespoon} {2 2 3 1 3 0}
+{Macaroni and Cheese} 3 20 {"elbow pasta" water salt "heavy cream" parmesan} {1 pound 4 cup 1 teaspoon 0.75 cup 1 cup} {0 0 4 0 0 0}
+{Pesto Chicken and Vegetables} 6 30 {"red bell pepper" zucchini squash onion "chicken breast" "cooking oil" "green beans" pesto salt pepper parmesan} {1 1 1 0.5 1 pound 2 tablespoon 1 cup 0.3 cup 0.125 teaspoon 0.125 teaspoon 1 tablespoon} {1 1 3 0 2 1}
+{Clam Chowder} 6 30 {bacon butter onion milk "chopped clam" "potato"} {4 slice 2 tablespoon 1 1 cup 13 ounce 2} {1 0 3 0 3 0}
+{Sheet Pan Kielbasa Potatoes and Green Beans} 2 45 {"red potatoes" kielbasa "yellow onion" "frozen green beans" "olive oil" "steak seasoning"} {6 ounce 3 ounce 0.25 1 can 0.5 tablespoon 0.125 tablespoon} {0 1 4 1 2 0}
+{Chinese noodle soup} 2 10 {"chicken stock" "green onions" "oyster sauce" "soy sauce" "dark soy sauce" "dry noodles" "bok choy"} {4 cups 3 1 tablespoon 1 tablespoon 1 tablespoon 4 ounce 4 head} {1 2 3 0 3 0} 
+{Orange Chicken} 6 30 {orange "soy sauce" "brown sugar" "garlic"} {1 2 teaspoon 2 tablespoon 1 clove} {3 2 2 0 2 1}
+{Chicken noodle soup} 3 170 {"chicken wings" carrots celery "white onions" garlic parsley "bay leaf" "black pepper" "olive oil" carrots "chicken stock" "chicken thighs" noodles salt pepper} {0.3 pound 1 3 1 2 1 handful 1 0.125 teaspoon 0.3 tablespoon 0.5 0.3 cup 2 2 ounce 1 teaspoon 1 teaspoon} {1 1 4 0 3 0} 
+{Kung Pao Chicken} 8 30 {"chicken breast" "soy sauce" vinegar sugar peanuts "green onions" "chili peppers" "chopped garlic"} {1 pound 2 tablespoon 1 teaspoon 2 teaspoon 4 ounce 4 4 1 tablespoon} {2 1 3 0 4 5}
+{Salisbury Steak} 9 35 {onion egg "lean ground beef" salt "canola oil" "unsalted butter" mushroom "black pepper" "heavy cream"} {0.5 1 1 pound 1 teaspoon 2 tablespoon 2 tablespoon 4 ounce 0.25 teaspoon 0.5 cup} {0 0 4 0 3 0}

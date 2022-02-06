@@ -1,0 +1,51 @@
+<html>
+	<head>
+		<title> SBHacks Testing! </title>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+		<link rel="stylesheet" href="style.css">
+		<script src="script.js"></script>
+	</head>
+	<body>
+		<center><h1 class="display-3 my-3">Food Form!</h1></center>
+		<div id="home" class="container my-5 py-5">
+			<form action="home.html" id="initial_form">
+				<p>Here's a simple form! We want to recommend you food based on your preferences!</p>
+				<legend>Restrictions/Preferences</legend>
+				<input type="checkbox" id="vegan" name="vegan"><label class="wide-check">Vegan</label>
+				<input type="checkbox" id="vegetarian" name="vegetarian"><label class="wide-check">Vegetarian</label>
+				<input type="checkbox" id="gluten_free" name="gluten_free"><label class="wide-check">Gluten Free</label>
+				<input type="checkbox" id="dairy_free" name="dairy_free"><label class="wide-check">Dairy Free</label><br>
+				<input type="checkbox" id="kosher" name="kosher"><label class="wide-check">Kosher</label>
+				<input type="checkbox" id="no_nuts" name="no_nuts"><label class="wide-check">No Nuts</label>
+				<input type="checkbox" id="no_shellfish" name="no_shellfish"><label class="wide-check">No Shellfish</label>
+				<input type="checkbox" id="no_eggs" name="no_eggs"><label class="wide-check">No Eggs</label><br>
+				<input type="checkbox" id="no_fish" name="no_fish"><label class="wide-check">No Fish</label>
+				<input type="checkbox" id="no_soy" name="no_soy"><label class="wide-check">No Soy</label>
+				<input type="checkbox" id="no_sesame" name="no_sesame"><label class="wide-check">No Sesame</label>
+				<br><br>
+				<label for="skill_level">How comfortable are you cooking?</label>
+				<input type="range" id="skill_level" name="skill_level" min="1" max="10">
+				<br>
+				(From uncomfortable to very comfortable)
+				<br><br>
+				<label for="cal_max" id="cal_max_label">Maximum Calorie Intake: </label>
+				<input type="number" id="cal_max" name="cal_max">
+				<br>
+				<label for="cal_max_bool">No Max Calorie Intake</label>
+				<input type="checkbox" id="cal_max_bool" onclick="toggle_cal_max();" name="no_cal_max">
+				<br><br>
+				<button onclick="set_cookies();">Submit</button>
+			</form>
+		</div>
+	</body>
+
+
+
+
+<!--
+Allergies [string? list?]
+Preferences [list]
+cooking skill level [scale]
+health (op)
+calorie max (int)
+-->
